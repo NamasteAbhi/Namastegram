@@ -16,7 +16,9 @@ This Api Is Good For Instagram Automations. And Here Are Lots Of Features.
 
 ## Getting Started
 
-Click [here]((https://rapidapi.com/NamasteProgrammer/api/namastegram/)) to get your Rapid API key..
+## Get Your Rapid API Key
+
+To get started with the project, you'll need an API key from Rapid API. If you don't have one yet, [click here](https://rapidapi.com/) to sign up and get your API key.
 
 ### Prerequisites
 
