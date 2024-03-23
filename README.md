@@ -1,8 +1,6 @@
 # Namasteram
-Best Private Api For Instagram Automation
-# Project Name
 
-Short description of the project.
+Best Private Api For Instagram Automation.
 
 ## Table of Contents
 
@@ -14,29 +12,14 @@ Short description of the project.
 
 ## About
 
-Provide a more detailed description of the project. Include its purpose, main features, and any other relevant information.
+This Api Is Good For Instagram Automations. And Here Are Lots Of Features.
 
 ## Getting Started
 
-Instructions on how to get the project up and running on a local machine. Include any prerequisites, installation steps, and configuration required.
+Click [here]((https://rapidapi.com/NamasteProgrammer/api/namastegram/)) to get your Rapid API key..
 
 ### Prerequisites
 
 List any software or libraries that need to be installed before running the project.
 
-- Prerequisite 1
-- Prerequisite 2
-
-### Installation
-
-Step-by-step instructions for installing the project.
-
-```bash
-# Clone the repository
-$ git clone https://github.com/username/repository.git
-
-# Navigate to the project directory
-$ cd repository
-
-# Install dependencies
-$ npm install
+- pip install requests
