@@ -42,4 +42,4 @@ Here Are List Of Features They Are Supported By Our Private Apis
 
 ### Contact
 For Any Query Contact Me Here [click here](https://t.me/namastehacker)
-# Soon I Will Add More Features
+# Will Be Add More Features Soon
