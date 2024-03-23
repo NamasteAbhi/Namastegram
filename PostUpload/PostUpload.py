@@ -40,7 +40,7 @@ def PostUpload(
         "X-RapidAPI-Host": "namastegram.p.rapidapi.com"
     }
 
-    return requests.post("https://namastegram.p.rapidapi.com/uploadPost", headers=headers, params=querystring,json=Payload).json()
+    return requests.post("https://namastegram.p.rapidapi.com/uploadPost", headers=headers, params=querystring,json=Payload).text
 
 
 if __name__ == '__main__':
