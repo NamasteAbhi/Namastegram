@@ -1,4 +1,4 @@
-# Namasteram
+# NamasteGram
 
 Best Private Api For Instagram Automation.
 
@@ -7,8 +7,6 @@ Best Private Api For Instagram Automation.
 - [About](#about)
 - [Getting Started](#getting-started)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
@@ -29,3 +27,14 @@ List any software or libraries that need to be installed before running the proj
 Here Are List Of Features They Are Supported By Our Private Apis
 
 - Login
+- Follow
+- Like
+- Comment
+- PostUpload
+- ReelUpload
+- ProfileInfo
+- UserNameToUserId
+- GetMediaidByPost
+- GetTimeLineFeed
+- GetFollowingTimeLineFeed
+- UserInfo
