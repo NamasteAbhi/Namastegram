@@ -7,6 +7,7 @@ Best Private Api For Instagram Automation.
 - [About](#about)
 - [Getting Started](#getting-started)
 - [Features](#features)
+- [Contact](#contact)
 
 ## About
 
@@ -38,5 +39,7 @@ Here Are List Of Features They Are Supported By Our Private Apis
 - GetTimeLineFeed
 - GetFollowingTimeLineFeed
 - UserInfo
-- 
-  # Soon I Will Add More Features
+
+### Contact
+For Any Query Contact Me Here [click here](https://t.me/namastehacker)
+# Soon I Will Add More Features
