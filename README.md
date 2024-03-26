@@ -39,6 +39,8 @@ Here Are List Of Features They Are Supported By Our Private Apis
 - GetTimeLineFeed
 - GetFollowingTimeLineFeed
 - UserInfo
+- GetHashTagInfo
+- GetTopSearch
 
 ### Contact
 For Any Query Contact Me Here [click here](https://t.me/namastehacker)
